@@ -72,4 +72,66 @@ The task focuses on implementing real-world problem statements using Python func
 1.  Use of functions
 2.  Use of loops (for / while)
 3.  Conditional logic
-4.  Real-world scenario implementatio 
+4.  Real-world scenario implementation
+
+# 📌 Task 5 – Industry-Based Problem Solving using Python
+📖 **Overview** :  
+ This task focuses on solving real-time industry-based problems 
+### Concepts Used:
+1.  Functions
+2.  Conditional Logic
+3.  Loops
+4.  Lists and Sets
+5.  Mathematical Operations
+6.  Return Values
+
+### Each problem simulates systems used in industries like:
+1. Social Media
+2. Healthcare
+3. Agriculture
+4.  Banking
+5.  IT & System Monitoring
+6.  Energy & Utilities
+7.  E-Learning
+
+### 🧠 Problems Implemented
+1️⃣ Social Media – Post Engagement Analyzer
+1. Calculates total likes
+2. Identifies whether a post is Viral or Normal
+3. Uses loops and conditional logic
+
+2️⃣ Healthcare – Medicine Stock Alert System
+1. Checks medicine stock level
+2. Alerts if stock is below threshold
+
+3️⃣ Agriculture – Rainfall Adequacy Checker
+1. Calculates average rainfall
+2. Determines whether rainfall is adequate for crops
+
+4️⃣ Social Media – Duplicate Account Detection
+1. Detects duplicate usernames
+2. Uses Python set data structure
+
+5️⃣ Healthcare – Appointment Eligibility Checker
+1. Checks patient age eligibility for appointments
+
+6️⃣ Agriculture – Premium Crop Price Filter
+1. Filters crops above premium price threshold
+2. Uses list filtering logic
+
+7️⃣ System Monitoring – Application Health Checker
+1. Evaluates system health based on error count
+2. Classifies as Healthy / Minor Issues / Critical Issues
+
+8️⃣ Banking – Daily Transaction Limit Checker
+1. Validates transaction against daily limit
+2. Approves or rejects transaction
+
+9️⃣ E-Learning – Student Attendance Eligibility System
+1. Calculates attendance percentage
+2. Determines exam eligibility
+
+🔟 Smart Electricity Bill Analyzer
+1. Implements slab-based billing system
+2. Classifies usage as Low / Moderate / High
+3. Uses return values and conditional logic
