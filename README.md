@@ -74,7 +74,7 @@ The task focuses on implementing real-world problem statements using Python func
 3.  Conditional logic
 4.  Real-world scenario implementation
 
-# 📌 Task 5 – Industry-Based Problem Solving using Python
+# 📌 Task 5 – Functions with Loops(2)
 📖 **Overview** :  
  This task focuses on solving real-time industry-based problems 
 ### Concepts Used:
